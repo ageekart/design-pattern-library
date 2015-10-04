@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Design-pattery-library
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,7 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# design-pattern-library
+Proyecto que permite llevar control de patrones de diseño a nivel front-end
+>>>>>>> 3db249fce87c261616a17f9cf73e9ad2fa0e7793
