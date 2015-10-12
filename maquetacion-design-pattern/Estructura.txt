@@ -1,0 +1,26 @@
+Estructura del proyecto:
+===========================
+- Login *
+  - Crear una nueva cuenta -> modal*
+  - Olvido su contraseña *
+
+- Dashboard (por proyecto)
+  - crear una nueva guia de estilo (modal)
+    - nombre del proyecto
+    - color etiqueta
+
+- GUIA DE ESTILO:
+  - Menu de navegacion de pattern
+    - crear nuevas categorias
+    - agregar paginas
+    - agregar contenido
+    - eliminar contenido
+  - Imprimir pagina
+
+- PERSONALIZAR APARIENCIA
+- OPCIONES GENERALES:
+  - Cuenta
+  - Settings
+  - Documentación
+  - Cerrar
+  - buscar

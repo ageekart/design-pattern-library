@@ -1,0 +1,13 @@
+<canvas id="can" width="400" height="400" style="border:1px solid gray;"></canvas>
+<img "id="canvasimg" >
+<input type="button" value="save" id="btn" size="30" onclick="save()" style="position:absolute;top:55%;left:10%;">
+<button >generar ocrad</button>
+<input type="button" value="clear" id="clr" size="23" onclick="erase()" style="position:absolute;top:55%;left:15%;">
+
+<div class="img__container">
+</div>
+
+
+<div class="header">Text from image:</div>
+<div class="header highlight" id="output">Fecthing text…</div>
+</div>
